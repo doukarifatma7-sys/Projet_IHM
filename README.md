@@ -9,6 +9,7 @@ The interface is designed with a modern and clean layout, focusing on usability 
 UI/UX principles such as clear input fields, readable typography, and intuitive navigation are applied to ensure a smooth user experience.
 
 Student:Ouled Amer hadjer 
+
 2. Sign Up Interface
 The page is divided into two panels inside the signup container. The left panel contains the site logo with the text “SMART RIDE DZ” and a subtitle, a motivational title and subtitle, a list of benefits with icons, key statistics, and a motivational quote displayed at the bottom of the panel.
 
@@ -19,7 +20,8 @@ The styling uses a blue gradient theme for the left panel and a white background
 The JavaScript handles showing and hiding passwords, real-time password strength checking, and password matching verification. It validates the form by ensuring all fields are filled, the email and phone number are valid, the password is at least eight characters long with correct confirmation, and the terms and conditions are accepted. If all checks pass, the success message is displayed with a CSS transition animation.
 
 Overall, this page provides a complete and secure registration form with client-side validation, an interactive password strength indicator, an animated gradient button, a motivational and engaging design, and full responsiveness for mobile and tablet devices.
-Student:Nouri Meriem 
+Student:Nouri Meriem
+
 3. Home Interface
 
 The Home interface represents the main dashboard of the Smart Ride DZ application.
@@ -28,6 +30,7 @@ The layout is responsive and visually appealing, ensuring easy navigation and qu
 This interface serves as the central point after successful authentication.
 
 Student:Doukari Fatma
+
 4. Show List Interface
 
 The Show List interface displays a list of available rides or related data in a clear and organized manner.
